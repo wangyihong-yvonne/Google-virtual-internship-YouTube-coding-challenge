@@ -31,14 +31,14 @@ Written by Yihong Wang
 # Coding Challenge Introduction
 In this challenge you are going to implement various components of a command-line application simulating YouTube. The result of your code will be a fully working command-line application, simulating how a user would interact with YouTube in real life but without any of the web elements. This is a big part of what a software engineer would be doing at Google, just on a much greater scale.
 ## Part 1
-The below commands are all related to video playing. You may want to get started by having a look at the CommandParser class.
+The following commands are all related to video playing. You may want to get started by having a look at the CommandParser class.
 NUMBER_OF_VIDEOS, SHOW_ALL_VIDEOS, PLAY <video_id>, STOP, PLAY_RANDOM, PAUSE, CONTINUE, SHOW_PLAYING
 ## Part 2
-The below commands are all related to playlist management. 
+The following commands are all related to playlist management. 
 CREATE_PLAYLIST <playlist_name>, ADD_TO_PLAYLIST <playlist_name> <video_id>, SHOW_ALL_PLAYLISTS, SHOW_PLAYLIST <playlist_name>, REMOVE_FROM_PLAYLIST <playlist_name> <video_id>, CLEAR_PLAYLIST <playlist_name>, DELETE_PLAYLIST <playlist_name>
 
 ## Part 3
-The below commands are related to searching videos.
+The following commands are related to searching videos.
 SEARCH_VIDEOS <search_term>, SEARCH_VIDEOS_WITH_TAG <tag_name>
 
 ## Part 4
