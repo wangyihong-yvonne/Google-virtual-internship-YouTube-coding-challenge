@@ -29,11 +29,28 @@ Written by Yihong Wang
 <br />
 
 # Coding Challenge Introduction
-It is my honour to become part of the Bright Network Internship, July 2021. I have chosen to take part in Google’s Coding Challenge for Bright Network. And this is my repository for submission!
+In this challenge you are going to implement various components of a command-line application simulating YouTube. The result of your code will be a fully working command-line application, simulating how a user would interact with YouTube in real life but without any of the web elements. This is a big part of what a software engineer would be doing at Google, just on a much greater scale.
+## Part 1
+The below commands are all related to video playing. You may want to get started by having a look at the CommandParser class.
+### NUMBER_OF_VIDEOS
+### SHOW_ALL_VIDEOS
+### PLAY <video_id>
+### STOP
+### PLAY_RANDOM
+### PAUSE
+### CONTINUE
+### SHOW_PLAYING
+## Part 2
+![Part 2 Tests Screenshot](./python/test_results/Part_2_tests.png)
+
+## Part 3
+![Part 3 Tests Screenshot](./python/test_results/Part_3_tests.png)
+
+## Part 4
+![Part 4 Tests Screenshot](./python/test_results/Part_4_tests.png)
 
 # Programming Language Chosen
 Java
-
 
 # Compelete Certification
 ![Image of Homepage](https://github.com/wangyihong-yvonne/virtual-google-internship-Youtube-codingChallenge/blob/main/README_imgs/hkcertification.png)
