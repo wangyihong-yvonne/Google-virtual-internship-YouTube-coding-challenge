@@ -36,5 +36,5 @@ Java
 
 
 # Compelete Certification
-<a href="#"><img src="README_imgs/hkcertification.png" alt="test" height="100"></a>
+![Image] (https://github.com/wangyihong-yvonne/virtual-google-internship-Youtube-codingChallenge/blob/main/README_imgs/hkcertification.png)
 
