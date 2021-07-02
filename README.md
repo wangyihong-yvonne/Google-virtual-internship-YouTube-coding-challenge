@@ -17,12 +17,12 @@ Written by Yihong Wang
 <!-- toc -->
 
 - [Coding Challenge Introduction](#coding-challenge-introduction)
-- [Programming Language Chosen](#programming-language-chosen)
-- [Passed Tests Screenshot](#compelete-certification)
-  - [Part 1](#part-1)
+- - [Part 1](#part-1)
   - [Part 2](#part-2)
   - [Part 3](#part-3)
   - [Part 4](#part-4)
+- [Programming Language Chosen](#programming-language-chosen)
+- [Compelete Certification](#compelete-certification)
 
 <!-- tocstop -->
 
