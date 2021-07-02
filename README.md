@@ -36,5 +36,5 @@ Java
 
 
 # Compelete Certification
-<a href="#"><img src="README_imgs/google_logo.svg" alt="test" height="100"></a>
+<a href="#"><img src="README_imgs/hkcertification.png" alt="test" height="100"></a>
 
