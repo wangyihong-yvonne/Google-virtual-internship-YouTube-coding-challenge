@@ -32,19 +32,9 @@ Written by Yihong Wang
 It is my honour to become part of the Bright Network Internship, July 2021. I have chosen to take part in Google’s Coding Challenge for Bright Network. And this is my repository for submission!
 
 # Programming Language Chosen
-Python, I used [PyCharm](https://www.jetbrains.com/pycharm/) for easier coding and debugging.
+Java
 
-[Click to see the Python coding](./python/)
 
-# Passed Tests Screenshot
-## Part 1
-![Part 1 Tests Screenshot](./python/test_results/Part_1_tests.png)
+# Compelete Certification
+<a href="#"><img src="README_imgs/google_logo.svg" alt="test" height="100"></a>
 
-## Part 2
-![Part 2 Tests Screenshot](./python/test_results/Part_2_tests.png)
-
-## Part 3
-![Part 3 Tests Screenshot](./python/test_results/Part_3_tests.png)
-
-## Part 4
-![Part 4 Tests Screenshot](./python/test_results/Part_4_tests.png)
