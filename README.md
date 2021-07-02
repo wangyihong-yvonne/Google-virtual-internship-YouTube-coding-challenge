@@ -18,7 +18,7 @@ Written by Yihong Wang
 
 - [Coding Challenge Introduction](#coding-challenge-introduction)
 - [Programming Language Chosen](#programming-language-chosen)
-- [Passed Tests Screenshot](#passed-tests-screenshot)
+- [Passed Tests Screenshot](#Compelete Certification)
   - [Part 1](#part-1)
   - [Part 2](#part-2)
   - [Part 3](#part-3)
