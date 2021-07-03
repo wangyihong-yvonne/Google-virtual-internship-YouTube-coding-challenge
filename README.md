@@ -1,4 +1,4 @@
-# virtual-google-internship-YouTube-codingChallenge
+# Google-virtual-internship-YouTube-coding-challenge
 <h1 align="center">
   <a href="#"><img src="README_imgs/bright_network_logo.svg" alt="UOL" width="200"></a>
   <a href="#"><img src="README_imgs/google_logo.svg" alt="test" height="100"></a>
